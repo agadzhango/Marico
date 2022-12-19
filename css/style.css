@@ -76,7 +76,7 @@ ul {
 }
 .signup-btn {
   outline: none;
-  border: none;
+  border-color: transparent;
   background-color: #306ef7;
   font-family: "Poppins";
   font-style: normal;
