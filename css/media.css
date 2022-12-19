@@ -1,0 +1,163 @@
+@media (max-width: 1653px) {
+    .homepage-content {
+        justify-content: center;
+    }
+    .homepage-text {
+        align-items: center;
+    }
+    .h2.ml {
+        text-align: center;
+    }
+    .h2.s {
+        text-align: center;
+    }
+    .p400_23 {
+        text-align: center;
+    }
+    .screen {
+        display: none;
+    }
+    .screen2 {
+        display: block;
+    }
+    .buttons.mr {
+        margin-bottom: 66px;
+    }
+}
+@media (max-width: 1633px) {
+    .mobile-content {
+        flex-flow: column;
+        align-items: center;
+    }
+    .mobile-card.fl {
+        margin-right: 0;
+        margin-top: 60px;
+        margin-bottom: 0;
+    }
+    .mobile-card {
+        margin-top: 40px;
+    }
+}
+@media (max-width: 1390px) {
+    .text-group.mb {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+    }
+    .p600_35 {
+        text-align: center;
+    }
+}
+@media (max-width: 1267px) {
+    .creators-content {
+        flex-flow: column;
+        align-items: center;
+    }
+    .p400_22 {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 1086px) {
+    nav {
+        flex-flow: column;
+    }
+    .logo-group {
+        align-items: center;
+    }
+    .nav-li.sm {
+        margin: 0;
+    }
+}
+@media (max-width: 953px) {
+    .text-group.mb {
+        flex-flow: column;
+    }
+    .container {
+        padding: 0 40px;
+    }
+}
+@media (max-width: 731px) {
+    .getstart {
+        margin-right: 0;
+        margin-bottom: 20px;
+        font-size: 16px;
+        padding: 14px 0;
+    }
+    .step1-btn {
+        font-size: 16px;
+        padding: 14px 0;
+    }
+    .nav-logo {
+        width: 120px;
+    }
+    .viewdemo {
+        font-size: 16px;
+        padding: 14px 0;
+    }
+    .buttons {
+        flex-flow: column;
+    }
+}
+@media (max-width: 690px) {
+    ul {
+        flex-flow: column;
+        align-items: center;
+        padding: 0;
+    }
+    .nav-buttons {
+        display: flex;
+        flex-flow: column;
+    }
+    .login-btn {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .h1-2 {
+        font-size: 70px;
+        line-height: 100px;
+    }
+    .h1 {
+        font-size: 70px;
+        line-height: 100px;
+    }
+    .h2 {
+        font-size: 50px;
+        line-height: 85px;
+    }
+    .h4 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .b {
+        padding-top: 50px;
+    }
+    .nav-li {
+        margin: 0;
+    }
+    .text-group {
+        display: flex;
+        flex-flow: column;
+    }
+    .p600-35 {
+        text-align: center;
+    }
+    .text-group.mb  {
+        flex-flow: column;
+    }
+    .container {
+        padding: 0 20px;
+    }
+}
+@media (max-width: 517px) {
+    .h3 {
+        font-size: 65px;
+        line-height: 100px;
+    }
+    .p400_30.green {
+        font-size: 26px;
+    }
+    .h5 {
+        font-size: 75px;
+        line-height: 80px;
+    }
+}
