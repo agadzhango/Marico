@@ -434,10 +434,13 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(img/1000bg.jpg);
+  background: url(img/1000bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   margin-bottom: 188px;
 }
 .h4 {
