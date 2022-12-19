@@ -433,7 +433,7 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("/img/1000bg.png");
+  background-image: url(img/1000bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
