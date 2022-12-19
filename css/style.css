@@ -76,7 +76,6 @@ ul {
 }
 .signup-btn {
   outline: none;
-  border-color: transparent;
   background-color: #306ef7;
   font-family: "Poppins";
   font-style: normal;
@@ -438,9 +437,6 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   margin-bottom: 188px;
 }
 .h4 {
@@ -520,4 +516,79 @@ ul {
   display: flex;
   flex-flow: column;
   justify-content: center;
+}
+.mission {
+  border-bottom: 1px solid #414141;
+  max-width: 1252px;
+  display: flex;
+  margin: 0 auto;
+}
+.mission__content {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.logo3 {
+  margin-top: 122px;
+  margin-bottom: 48px;
+}
+.p400_28 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 42px;
+  color: #FFFFFF;
+  max-width: 1133px;
+  margin-bottom: 18px;
+}
+.p400_28.fw {
+  font-weight: 600;
+  margin-top: 36px;
+  margin-bottom: 56px;
+}
+.ourteam {
+  padding: 188px 0;
+}
+.ourteam__content {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.ourteam__cards {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.ourteam__person {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin-top: 61px;
+}
+.p700_35 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+  color: #FFFFFF;
+}
+.p400_19 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  color: #7F7F7F;
+}
+.person-img {
+  margin-bottom: 17px;
+}
+.twitter {
+  margin-top: 28px;
+}
+.p400_30.white {
+  color: white;
 }

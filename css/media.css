@@ -97,6 +97,10 @@
     .buttons {
         flex-flow: column;
     }
+    .ourteam__cards {
+        flex-flow: column;
+        align-items: center;
+    }
 }
 @media (max-width: 690px) {
     ul {
