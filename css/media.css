@@ -1,3 +1,13 @@
+@media (max-width: 1698px) {
+    .price__cards {
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .price__cards-items {
+        margin-bottom: 20px;
+    }
+}
 @media (max-width: 1653px) {
     .homepage-content {
         justify-content: center;
@@ -55,6 +65,16 @@
     }
     .p400_22 {
         margin-bottom: 20px;
+    }
+}
+@media (max-width: 1147px) {
+    .form {
+        flex-flow: column;
+        align-items: center;
+    }
+    .input-group.mr {
+        margin-right: 0;
+        margin-bottom: 81px;
     }
 }
 @media (max-width: 1086px) {
@@ -132,6 +152,10 @@
         font-size: 35px;
         line-height: 50px;
     }
+    .h6 {
+        font-size: 70px;
+        line-height: 100px;
+    }
     .b {
         padding-top: 50px;
     }
@@ -152,6 +176,20 @@
         padding: 0 20px;
     }
 }
+@media (max-width: 596px) {
+    .p700_69 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    
+}
+@media (max-width: 582px) {
+    .blog-cards_items {
+        width: 100%;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+}
 @media (max-width: 517px) {
     .h3 {
         font-size: 65px;
@@ -163,5 +201,23 @@
     .h5 {
         font-size: 75px;
         line-height: 80px;
+    }
+    .form {
+        max-width: 100%;
+    }
+    input {
+        width: 100%;
+    }
+    .form-button {
+        width: 100%;
+    }
+    .p400_24.wh {
+        text-align: center;
+    }
+}
+@media (max-width: 436px) {
+    .price_button {
+        font-size: 20px;
+        padding: 16px 0;
     }
 }
